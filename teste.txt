@@ -1,5 +1,5 @@
 P1
-# Comentário: este é um exemplo de imagem da letra "J"
+# Comentário: este é um exemplo de imagem da letra "J", os testes podem ser tanto txt como pbm.
 6 10
 0 0 0 0 1 0
 0 0 0 0 1 0
@@ -10,4 +10,5 @@ P1
 1 0 0 0 1 0
 0 1 1 1 0 0
 0 0 0 0 0 0
+
 0 0 0 0 0 0
